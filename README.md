@@ -8,3 +8,7 @@
 ```shell title="shell"
 docker run --name=SubConverter -d --restart=always -p 25500:25500 tindy2013/subconverter:latest
 ```
+搭建成功后订阅转换地址为
+```
+http://127.0.0.1:25500/sub
+```
