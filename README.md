@@ -1,4 +1,4 @@
-# My_notes-for-openwrt
+# My_notes-for-openclash
 
 ## 1.docker自建sub订阅转换命令
 ```Shell
